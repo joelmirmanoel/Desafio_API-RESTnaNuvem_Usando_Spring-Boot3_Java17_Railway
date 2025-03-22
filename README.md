@@ -1,6 +1,6 @@
 # DIO-Decola Tech 2025
 
-RESTful API da Decola Tech 2025 construída em Java 17 com Spring Boot 3.
+RESTful API da Decola Tech 2025 construída em Java 17 com Spring Boot 3 e Railway.
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
@@ -53,4 +53,9 @@ classDiagram
   User "1" *-- "N" News
 ```
 
+## Contato
 
+### Joelmir Silva
+
+[![E-mail : joelmirmanoel80@Gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](joelmirmanoel80@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joelmir-silva-451052134/)
