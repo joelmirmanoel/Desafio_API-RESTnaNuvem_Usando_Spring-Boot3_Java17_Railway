@@ -1,4 +1,4 @@
-# DIO-Decola Tech 2025
+# DIO
 
 RESTful API da Decola Tech 2025 construída em Java 17 com Spring Boot 3 e Railway.
 
